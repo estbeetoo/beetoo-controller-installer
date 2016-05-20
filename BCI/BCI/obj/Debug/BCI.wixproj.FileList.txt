@@ -1,0 +1,8 @@
+C:\Users\пк-1\Desktop\test\BCI\BCI\bin\Debug\ru-RU\BCI.msi
+C:\Users\пк-1\Desktop\test\BCI\BCI\bin\Debug\ru-RU\BCI.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\BCI.wixproj.BindContentsFileListru-RU.txt
+obj\Debug\BCI.wixproj.BindOutputsFileListru-RU.txt
+obj\Debug\BCI.wixproj.BindBuiltOutputsFileListru-RU.txt
+C:\beetoo\BCI\BCI\bin\Debug\ru-RU\BCI.msi
+C:\beetoo\BCI\BCI\bin\Debug\ru-RU\BCI.wixpdb

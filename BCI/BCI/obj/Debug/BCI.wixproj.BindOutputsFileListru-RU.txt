@@ -1,0 +1,2 @@
+C:\beetoo\BCI\BCI\bin\Debug\ru-RU\BCI.msi
+C:\beetoo\BCI\BCI\bin\Debug\ru-RU\BCI.wixpdb
