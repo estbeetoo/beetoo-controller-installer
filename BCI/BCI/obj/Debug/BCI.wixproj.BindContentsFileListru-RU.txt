@@ -1,2 +1,0 @@
-C:\beetoo\node.exe
-C:\beetoo\Test.js
